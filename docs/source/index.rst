@@ -1,23 +1,19 @@
-Welcome to the best ever documentation you'll ever see!!!!
+Pre Production / Production Documents
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**In The Dark** the target audience for this film is 16 and above due to the visual imagery. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+
+Check out the trailer of the film here: **In The Dark**
 
 .. note::
 
-   This project is under active development.
+   Coming soon in theathers 2026
 
 Contents
 --------
 
 .. toctree::
 
-   M.Artin G.
    usage
    api
